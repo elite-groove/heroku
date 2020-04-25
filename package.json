@@ -1,0 +1,6 @@
+{
+    "name": "fuck-heroku",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
