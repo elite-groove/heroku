@@ -1,7 +1,10 @@
 {
   "name": "viscira-project",
   "description": "",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.16.2"
+  },
   "homepage": "",
   "private": true,
   "main": "src",
