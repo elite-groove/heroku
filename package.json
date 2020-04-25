@@ -1,7 +1,7 @@
 {
   "name": "viscira-project",
   "scripts": {
-    "start": "npm i && cd node_modules/goodbye && npm i && npm start"
+    "start": "node "
   },
   "dependencies": {
     "goodbye": "https://github.com/LGC-CODE/viscira.git"
